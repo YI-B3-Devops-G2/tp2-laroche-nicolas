@@ -56,6 +56,3 @@ Si vous souhaitez arreter l'image docker saisissez la commande :
 
 
 
-
-
-# COUCOU MONIQUE
